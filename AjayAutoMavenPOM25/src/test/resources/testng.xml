@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AjayAutoMavenPOM25 Test Suite">
+
+	
+
+	<test name="AjayAutoMavenPOM25 Test Cases">
+		<classes>
+		
+		<class name="testCases.HomeSearchTest"></class>
+			<!-- 
+			<class name="testCases.TestCheckSQL"></class>
+			<class name="testCases.TestCheckExcel"></class>
+            <class name="testCases.TestCheckMySql"></class>
+            <class name="testCases.HomeSearchTest"></class>
+            -->
+		</classes>
+	</test>
+</suite>
